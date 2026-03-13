@@ -1,3 +1,4 @@
+name: qmd_knowledge_search
 title: QMD Knowledge Search
 description: Local hybrid search for markdown notes, docs, and knowledge bases. BM25 + vector + LLM reranking, fully on-device.
 version: 1.0.0
